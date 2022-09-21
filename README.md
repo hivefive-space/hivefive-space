@@ -52,13 +52,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Obol.png" alt="Obol" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Ironfish.png" alt="IronFish" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Ironfish.png" alt="IronFish" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/CrowdControl.png" alt="CrowdControl" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
 ## Archive 
 <div align="center">  
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Stride.png" alt="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/71f9b31828bdabfc44ff6e2a5c8801793fe3f4a2/img/Rebus.png" alt="Rebus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
 
