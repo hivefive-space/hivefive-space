@@ -53,12 +53,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
