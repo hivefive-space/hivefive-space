@@ -2,7 +2,7 @@
 <a href="https://twitter.com/John_P_Cash" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://discordapp.com/users/Hive%20Five#5223" target="_blank">
+<a href="https://discordapp.com/users/986652019869769768" target="_blank">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </div>
