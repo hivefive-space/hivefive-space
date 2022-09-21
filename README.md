@@ -86,6 +86,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="60" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="60" /></a>  
+<img class="icon-3AqZ2e" src="https://github.com/hivefive-space/hivefive-space/blob/c16527b671ec54b067efd3effe80021e4adce0c3/img/sui.webp" alt="Sui" width="60" height="auto">
+  
 </div>  
 
 <br/>  
