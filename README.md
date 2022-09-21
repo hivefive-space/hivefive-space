@@ -50,7 +50,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Active 
 <div align="center">  
   
-<a href="#" target="_blank"><img class="icon-3AqZ2e" src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="60" height="auto"></a>
+<a href="#" target="_blank"><img style="margin: 30px" src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>
+  <a href="#" target="_blank"><img style="margin: 30px" src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>
+  <a href="#" target="_blank"><img style="margin: 20px" src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>
+  <a href="#" target="_blank"><img style="margin: 20px" src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>
+  <a href="#" target="_blank"><img style="margin: 20px" src="https://github.com/hivefive-space/hivefive-space/blob/b92f1b5bb2a8e341b173bc51e2d24a3f860fce6f/img/sui.png" alt="Sui" width="80" height="auto"></a>
   
 </div>  
 
