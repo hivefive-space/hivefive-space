@@ -39,15 +39,3 @@
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Stride.png" title="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/71f9b31828bdabfc44ff6e2a5c8801793fe3f4a2/img/Rebus.png" title="Rebus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
-
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
