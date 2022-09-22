@@ -9,7 +9,7 @@
 # Dedicated to the pursuit of blockchain perfection
 Some text about us
 
-<div align="right">
+<div align="left">
 <a href="http://t.me/John_P_Cash" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
