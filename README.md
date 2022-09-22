@@ -1,3 +1,5 @@
+# Dedicated to the pursuit of blockchain perfection
+
 <div align="right">
 <a href="https://twitter.com/John_P_Cash" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -6,8 +8,8 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </div>
+</br>
 
-# Dedicated to the pursuit of blockchain perfection
 <div align="center">  
 <img src="https://github.com/hivefive-space/hivefive-space/blob/3a560fb5b377c876d7eb677b76da6e1b227f3509/img/header.png" width="100%" height="auto">
 </div> 
@@ -17,6 +19,8 @@
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Sui.png" title="Sui" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Islamic%20Coin.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;  
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Obol.png" title="Obol" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Stride.png" title="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/71f9b31828bdabfc44ff6e2a5c8801793fe3f4a2/img/Rebus.png" title="Rebus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Teritori.png" title="Teritori" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/Forta.png" title="Forta" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Bundlr.png" title="Bundlr" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
@@ -42,8 +46,6 @@
 
 ## Archive 
 <div align="center">  
-<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Stride.png" title="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/71f9b31828bdabfc44ff6e2a5c8801793fe3f4a2/img/Rebus.png" title="Rebus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Kujira.png" title="Kujira" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Quicksilver.png" title="Quicksilver" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/SubQuery.png" title="SubQuery" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
