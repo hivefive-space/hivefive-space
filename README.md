@@ -7,11 +7,10 @@
 </a>
 </div>
 
+# Dedicated to the pursuit of blockchain perfection
 <div align="center">  
 <img src="https://github.com/hivefive-space/hivefive-space/blob/3a560fb5b377c876d7eb677b76da6e1b227f3509/img/header.png" width="100%" height="auto">
 </div> 
-
-# Dedicated to the pursuit of blockchain perfection
 
 ## Active 
 <div align="center">  
