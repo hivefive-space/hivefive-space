@@ -18,9 +18,11 @@
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Islamic%20Coin.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;  
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Obol.png" title="Obol" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Teritori.png" title="Teritori" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/Forta.png" title="Forta" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Bundlr.png" title="Bundlr" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Bware.png" title="Bware" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/DWS.png" title="DWS" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/DeFund.png" title="DeFund" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Near.png" title="Near" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94371afd3f20f6d1a64094e5bbbc5e60838b6b44/img/Ironfish.png" title="IronFish" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/b03d4395bd88cd72bc681213ea2bbe140128be47/img/Penumbra.png" title="Penumbra" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
@@ -45,4 +47,7 @@
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Kujira.png" title="Kujira" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Quicksilver.png" title="Quicksilver" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/SubQuery.png" title="SubQuery" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/Evmos.png" title="Evmos" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/Agoric.png" title="Agoric" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/Astar.png" title="Astar" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
