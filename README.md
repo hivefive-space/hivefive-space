@@ -55,6 +55,7 @@ Professional non-custodial staking and testing service. We are a team of two fri
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/c49c35a842885f88c315cf2773a259c6034116d5/img/Nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/cb074eb91c17d9a81f30151fd79795c404c7e300/img/Terp.png" title="Terp" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/11a303a3db52a43b33ddeef89df561952a22f734/img/Nois.png" title="Nois" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;    
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/9aa58b72fd5ecf0a3c8146ab7cb4cd50e5de41e1/img/Ollo.png" title="Ollo" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
 ## Archive 
