@@ -52,7 +52,8 @@ Professional non-custodial staking and testing service. We are a team of two fri
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/262436d4ba4ab366f556d440a3cd9acf741ced4e/img/okp4.png" title="OKP4" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/2797db11028b8610d867ca06d0815aeaa7ce41be/img/Bifrost.png" title="Bifrost" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;  
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/5f26805f897d5aab0de95f5f8c97a9589ffb85c0/img/Empower.png" title="Empower" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/c49c35a842885f88c315cf2773a259c6034116d5/img/Nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp; 
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/c49c35a842885f88c315cf2773a259c6034116d5/img/Nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/cb074eb91c17d9a81f30151fd79795c404c7e300/img/Terp.png" title="Terp" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;  
 </div> 
 
 ## Archive 
