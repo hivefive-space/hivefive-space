@@ -12,6 +12,7 @@ We are two friends from Europe and Asia - a Cybersecurity Engineer and a Busines
 We can help check the chain by organizing (at the request of the developers, of course) stress-tests on the chain. Will try to find errors in the documentation and bugs in the code.
 
 We creating, adding and deploying - faucets, guides, state syncs, ardbooks, relayers, peers. We maintain documentation on node deployment and infrastructure support. 
+
 We are always happy to see new projects and new acquaintances - YOU ARE WELCOME🤗
 
 <div align="left">
