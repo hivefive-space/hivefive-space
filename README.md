@@ -63,13 +63,13 @@ We are always happy to see new projects and new acquaintances - YOU ARE WELCOMEð
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/11a303a3db52a43b33ddeef89df561952a22f734/img/Nois.png" title="Nois" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;    
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/9aa58b72fd5ecf0a3c8146ab7cb4cd50e5de41e1/img/Ollo.png" title="Ollo" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/e7e98a751847f97def1be99e069c6f6e2fe95369/img/Elsechain.png" title="Elsechain" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Quicksilver.png" title="Quicksilver" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
 ## Archive 
 <div align="center">
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Near.png" title="Near" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Kujira.png" title="Kujira" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/Quicksilver.png" title="Quicksilver" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/94f3c7804fe17ba9d5447cc22db0a9787ac2186e/img/SubQuery.png" title="SubQuery" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/Evmos.png" title="Evmos" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/hivefive-space/hivefive-space/blob/74fb60305db6706e5b9bbbc789de8d09c23b838b/img/Agoric.png" title="Agoric" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
