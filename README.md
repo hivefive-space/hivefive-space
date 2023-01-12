@@ -7,7 +7,9 @@
 </div> 
 
 # Dedicated to the pursuit of blockchain perfection
-Professional non-custodial staking and testing service. We are a team of two friends from Europe and Asia: - Cybersecurity Engineer and Devops. Our total work experience is 18 years (10+8:)). Therefore, we understand exactly what to do and how to do it;) We can guarantee: Monitoring - 24/7/365; Uptime - 99.5% and higher; Absolute security of our infrastructure. To do this, we place our nodes (including all testnets) only on those hosting that we trust - Amazon, Google, Oracle, OVH and Digital Ocean, we also use our own facilities in Portugal and Kazakhstan. We have extensive positive validation experience in Ethereum, Cosmos, Polkadot. Well, we are also always happy to see new projects and new acquaintances - YOU ARE WELCOME🤗
+We are two friends from Europe and Asia - a Cybersecurity Engineer and a Business Intellegence Researcher. Our total work experience is 18 years (10+8:)). Therefore, we understand exactly what to do and how to do it;) We can guarantee: Monitoring - 24/7/365; Uptime - 99.5% and higher; Absolute security of our infrastructure. To do this, we place our nodes (including all testnets) only on those hosting that we trust - Amazon, Google, Oracle, OVH and Digital Ocean, we also use our own facilities in Portugal and Kazakhstan.
+We can help check the chain by organizing (at the request of the developers, of course) stress-tests on the chain. Will try to find errors in the documentation and bugs in the code.
+We creating, adding and deploying - faucets, guides, state syncs, ardbooks, relayers, peers. We maintain documentation on node deployment and infrastructure support. We are always happy to see new projects and new acquaintances - YOU ARE WELCOME🤗
 
 <div align="left">
 <a href="http://t.me/John_P_Cash" target="_blank">
